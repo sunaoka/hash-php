@@ -1,5 +1,7 @@
 {
     "name": "sunaoka/hash-php",
+    "description": "Merge one or more associative arrays recursively. This function does not append numeric indexes like array_merge_recursive() function.",
+    "keywords": ["hash", "merge", "array", "recursive", "array_merge_recursive"],
     "type": "library",
     "license": "MIT",
     "authors": [
