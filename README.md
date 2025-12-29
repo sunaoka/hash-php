@@ -1,5 +1,13 @@
 # Hash::merge() for PHP
 
+[![Latest](https://poser.pugx.org/sunaoka/hash-php/v)](https://packagist.org/packages/sunaoka/hash-php)
+[![License](https://poser.pugx.org/sunaoka/hash-php/license)](https://packagist.org/packages/sunaoka/hash-php)
+[![PHP](https://img.shields.io/packagist/php-v/sunaoka/hash-php)](composer.json)
+[![Test](https://github.com/sunaoka/hash-php/actions/workflows/test.yml/badge.svg)](https://github.com/sunaoka/hash-php/actions/workflows/test.yml)
+[![codecov](https://codecov.io/gh/sunaoka/hash-php/branch/develop/graph/badge.svg)](https://codecov.io/gh/sunaoka/hash-php)
+
+---
+
 Merge one or more associative arrays recursively
 
 This function does not append numeric indexes like [array_merge_recursive()](https://php.net/array-merge-recursive) function.
