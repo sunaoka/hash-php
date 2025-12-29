@@ -1,9 +1,10 @@
 parameters:
 
-    level: 9
+    level: max
 
     paths:
         - src
         - tests
 
-    checkMissingIterableValueType: false
+    ignoreErrors:
+        - identifier: missingType.iterableValue
